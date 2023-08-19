@@ -23,6 +23,7 @@
 </p>
 
 ## 预览
+https://github.com/hailhydra21/IlluminatedProgressbar/assets/89366291/b5bf8baa-8775-40e4-be41-49cd5d9a435f
 
 ## 参考
 + [**neumorphism**: QML Neumorphism (soft UI) QtQuick style.](https://github.com/SMR76/neumorphism)
